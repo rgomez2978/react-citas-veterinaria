@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-citas-veterinaria/static/css/main.4c798faf.chunk.css",
+    "main.js": "/react-citas-veterinaria/static/js/main.077178aa.chunk.js",
+    "main.js.map": "/react-citas-veterinaria/static/js/main.077178aa.chunk.js.map",
+    "runtime-main.js": "/react-citas-veterinaria/static/js/runtime-main.727959b7.js",
+    "runtime-main.js.map": "/react-citas-veterinaria/static/js/runtime-main.727959b7.js.map",
+    "static/js/2.b18ce891.chunk.js": "/react-citas-veterinaria/static/js/2.b18ce891.chunk.js",
+    "static/js/2.b18ce891.chunk.js.map": "/react-citas-veterinaria/static/js/2.b18ce891.chunk.js.map",
+    "index.html": "/react-citas-veterinaria/index.html",
+    "precache-manifest.c84475c6a21c6cc86112e96c62368ea0.js": "/react-citas-veterinaria/precache-manifest.c84475c6a21c6cc86112e96c62368ea0.js",
+    "service-worker.js": "/react-citas-veterinaria/service-worker.js",
+    "static/css/main.4c798faf.chunk.css.map": "/react-citas-veterinaria/static/css/main.4c798faf.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.727959b7.js",
+    "static/js/2.b18ce891.chunk.js",
+    "static/css/main.4c798faf.chunk.css",
+    "static/js/main.077178aa.chunk.js"
+  ]
+}
