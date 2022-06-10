@@ -1,6 +1,7 @@
 {
   "name": "react-citas-veterinaria",
   "version": "0.1.0",
+  "homepage": "https://rgomez2978.github.io/react-citas-veterinaria",
   "private": true,
   "dependencies": {
     "react": "^16.12.0",
